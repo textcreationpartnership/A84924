@@ -1,0 +1,279 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The friers lamenting, for his not repenting. Being a relation of the life and death of Francis Colewort a frier, who related a little before his death a threefold plot of treason. With his conversion to the Protestant religion, at Hungerford in Barkshire.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84924</idno>
+            <idno type="STC">Wing F2209</idno>
+            <idno type="STC">Thomason E168_3</idno>
+            <idno type="STC">ESTC R5905</idno>
+            <idno type="EEBO-CITATION">99872918</idno>
+            <idno type="PROQUEST">99872918</idno>
+            <idno type="VID">157005</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84924)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157005)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 29:E168[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The friers lamenting, for his not repenting. Being a relation of the life and death of Francis Colewort a frier, who related a little before his death a threefold plot of treason. With his conversion to the Protestant religion, at Hungerford in Barkshire.</title>
+                  <author>Taylor, John, 1580-1653, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In prose and verse.</note>
+                  <note>Title page has printers' device (McK. imperfect: 268-272).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Colewort, Francis, ca. 1579-1641?.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157005:1" rendition="simple:additions"/>
+            <p>The Friers LAMENTING, For his not REPENTING.</p>
+            <p>Being a Relation of the life and death of <hi>Francis Colewort</hi> a Frier, who related a little before his death a three<g ref="char:EOLhyphen"/>fold Plot of Treaſon.</p>
+            <p>With his Converſion to the Proteſtant Religion, at <hi>Hungerford</hi> in <hi>Barkſhire.</hi>
+            </p>
+            <figure>
+               <q xml:lang="lat">IN DOMINO CONFIDO</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed at London. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157005:2"/>
+            <pb n="1" facs="tcp:157005:2"/>
+            <head>THE LIFE AND DEATH OF Francis Colevvort, A French Frier, who related a little before his death a threefold plot of Treaſon.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ountrymen, this Papiſt that made this dolefull Lamentation was a long time a Frier in <hi>France,</hi> yet borne in <hi>England,</hi> by name <hi>Francis Colewort,</hi> his father was a very honeſt poor man, living in the Towne of <hi>Hungerford</hi> in <hi>Barkſhire,</hi> and a Shoomaker by his Trade; this <hi>Francis Colewort</hi> was brought up to ſchool till he was fit to go to <hi>Oxford,</hi> but his father being not able to maintain him there, he wait<g ref="char:EOLhyphen"/>ed upon Sir <hi>Edward Bristowe</hi> ſon and heir into <hi>France;</hi> now he being a youth of a very pregnant wit, and a pretty ſcholar, he commenced his two Degrees of Bachelour and Maſter of Arts in <hi>Paris,</hi> and it hapned that it pleaſed God to give him over to himſelfe that he became a Frier, and ſo continued for the ſpace of twelve yeeres; at the
+<pb n="2" facs="tcp:157005:3"/>laſt it pleaſed God to open his eyes that he ſaw the pit he was fallen into, he became a true Proteſtant, and came for his owne Countrey, where with griefe for the Religion he had ſo long been blinded with, he even blind<g ref="char:EOLhyphen"/>ed himſelfe with tears, relating the plots of theſe Pa<g ref="char:EOLhyphen"/>piſticall Caterpillers, which they had pretended againſt this Kingdom for a long time. He lived ſixty and ſeven yeeres, and a little before his death, he unfolded many treaſons, which I ſhall after relate.</p>
+            <div type="part">
+               <head>The Treaſons againſt our State, which <hi>Francis Colewort</hi> a French Frier, after he was convert<g ref="char:EOLhyphen"/>ed to the Truth, related.</head>
+               <p>FIrſt, he reported that the Pope of Rome wrote his Letters to the two great Monarchs, <hi>F. S.</hi> that hee might incenſe them againſt this our State; for whileſt we were in ſafety, he pretended he was not at any quiet.</p>
+               <p>Secondly, he, <hi>viz.</hi> the Pope alſo wrote Letters to the Emperour that he would joyne with the two great Mo<g ref="char:EOLhyphen"/>narchs, that he might be ſure to ſee, or at leaſt to hear of the utter ſubverſion of our State.</p>
+               <p>Thirdly, he ſaid, that there were above three hundred Jeſuits and Friers in this Kingdom, all which had taken the Sacrament to do ſome bloudy Deſigne.</p>
+               <p>From this may you ſee the continuall Plots which
+<pb n="3" facs="tcp:157005:3"/>have been hatched againſt this our State, yet <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re ever <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame to any good, and how are we bourd to praiſe our God for theſe Deliverances? I beſeech you that ye would <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll rejoyce with me, and praiſe the great Jehovah, who is the beginning and the end.</p>
+            </div>
+            <div type="poem">
+               <head>A Friers lamenting, For his not repenting.</head>
+               <lg>
+                  <l>LIke to the Porpoſe, tempeſt, foot-poſt, I</l>
+                  <l>Do play before my ſtorme of miſery,</l>
+                  <l>Or like the Swan who ſings juſt at his death,</l>
+                  <l>So do I caroll out my lateſt breath,</l>
+                  <l>Quavers are ſighs, and ſemiquavers teares,</l>
+                  <l>Griefe is the drapaſon my ſong beares:</l>
+               </lg>
+               <lg>
+                  <l>When firſt the wanton windes of peare and reſt</l>
+                  <l>Play'd with my ſailes, then did my thoughts worke beſt,</l>
+                  <l>I ſet ſuch wheeles of treaſons round, that I</l>
+                  <l>Thought ſure the world drown'd in my Tragcedy.</l>
+                  <l>A powder-plot I had, which all the earth,</l>
+                  <l>Though it had ſtriv'd, could not have ſtopt its birth;</l>
+                  <l>Yet the all-ſeeing Eye of Heaven ſaw,</l>
+                  <l>How much abuſe was offered to his Law,</l>
+                  <l>He cropt my bud of Treaſon, and the ſtocke</l>
+                  <l>Wither'd, and ſtrait became my ſtumbling blocke.</l>
+                  <l>Thus low I lie, without all hope to riſe,</l>
+                  <l>Look here and ſee, griefe doth eclipſe mine eyes;</l>
+                  <pb n="4" facs="tcp:157005:4"/>
+                  <l> Whole ſhowres of teares ſtand ready at the brinke,</l>
+                  <l>And ſeas of ſorrow cauſe me here to ſinke;</l>
+                  <l>I was a man that alwayes thought it good,</l>
+                  <l>To ſwim to my deſires through ſeas of blood,</l>
+                  <l>But ſee my downfall, I am fallen there</l>
+                  <l>Where I but late had fixt a ſubtle ſnare,</l>
+                  <l>I like to <hi>Haman</hi> built a lofty tree,</l>
+                  <l>Which men thought beſt t'allot to none but me.</l>
+                  <l>Ye dolefull feares which do ſurround my heart,</l>
+                  <l>Which pinch my ſoul, and to my further ſmart,</l>
+                  <l>Confound my ſenſes, ſwadling me in thrall,</l>
+                  <l>To make me hated here in generall,</l>
+                  <l>Which to my frozen lips have utterance given,</l>
+                  <l>Speake, O ſpeake the command ye bring from Heaven</l>
+                  <l>Thus much I graſpe, and this I underſtand,</l>
+                  <l>The lateſt day is now, (ev'n now) at hand</l>
+                  <l>What ſhall I do? I will confeſſe my ſin,</l>
+                  <l>Thence may you reade the griefe I labour in.</l>
+               </lg>
+               <lg>
+                  <l>O, I was one which liv'd under ſuſpence.</l>
+                  <l>I nothing ſtudied but to pleaſe my ſence,</l>
+                  <l>I trimm'd a glorious out ſide, whileſt within,</l>
+                  <l>I nouriſht nought, but propagated ſin;</l>
+                  <l>What dar'd I not? I often drencht my ſoul</l>
+                  <l>In <hi>Pluto</hi>'s <hi>Lethe,</hi> in red murthers boule;</l>
+                  <l>I durſt attempt to pull <hi>Iove</hi> from his throne,</l>
+                  <l>I did no leſſe, I pull'd at <hi>Caeſar</hi>'s Crowne,</l>
+                  <l>
+                     <hi>Caeſars</hi> ſaid I? nay here is now more ods,</l>
+                  <l>I threatned heaven and the thundring gods.</l>
+                  <l>Seas were at my command, and thence did I</l>
+                  <l>Threatned Religion preſſe with miſery,</l>
+                  <l>But now behold, my creſcent hornes are chang'd,</l>
+                  <l>And I could wiſh that I had never rang'd,</l>
+                  <pb n="5" facs="tcp:157005:4"/>
+                  <l> My ſun of glorie's ſet, and I returne</l>
+                  <l>Downe to my humble grave, my peacefull Urne;</l>
+                  <l>I have no hope, my ebbe will never flow,</l>
+                  <l>But I muſt ſtoop to fortune at one blow;</l>
+                  <l>My Genius tels me I have done great wrong,</l>
+                  <l>A grievous burthen to any dolefull ſong,</l>
+                  <l>'Tis my ill deeds that now doth blaſt my praiſe,</l>
+                  <l>My ſtar doth fall, without a ſtar-like blaze;</l>
+                  <l>I once did ſcorne pity, I had in ſtore,</l>
+                  <l>Now none will pity, becauſe my worth is poor;</l>
+                  <l>But I deſerve it, I did alwayes prey</l>
+                  <l>Upon Religion both night and day,</l>
+                  <l>Juſt like the Aſſe clad in a Lions skin,</l>
+                  <l>Thus did I act, and enact each dayes ſin:</l>
+                  <l>When I look on my fatall miſery,</l>
+                  <l>My thoughts begin to ſcale the ſtarry sky,</l>
+                  <l>T'invoke great <hi>Iove,</hi> hope doth me ſtrait wayes ſpurne,</l>
+                  <l>Decreeing fates have clapt me in my Urne:</l>
+                  <l>Thus may you ſee what 'tis to bow and creep</l>
+                  <l>To idle idols, how moſt men do leap</l>
+                  <l>To ſee my downefall, and I muſt confeſſe,</l>
+                  <l>That in their joy conſiſts my happineſſe;</l>
+                  <l>For thoſe that ſuffer here below, I'le prove,</l>
+                  <l>Have leſſe to anſwer fore our God above.</l>
+                  <l>Lord grant me patience, now I come to thee,</l>
+                  <l>No Saint ſhall now once intercede for me;</l>
+                  <l>Forgive me Lord for thoſe ſins which are paſt,</l>
+                  <l>I'le leave the Pope, and come to thee at laſt,</l>
+                  <l>And on my knees I beg from thee O God,</l>
+                  <l>That thou would'ſt ſpareit by all revenging rod,</l>
+                  <l>I'le kneel no more to Saints, not I, not I,</l>
+                  <l>I feel the ſmart, I'me grip'd with miſery,</l>
+                  <pb n="6" facs="tcp:157005:5"/>
+                  <l> But now I ſue for this ſame very thing,</l>
+                  <l>That I may have pardon from my earthly King,</l>
+                  <l>He whom I hated cauſe he was too good</l>
+                  <l>To live among us, O my ſoul for food</l>
+                  <l>Doth almoſt faint, pray for my ſafety all,</l>
+                  <l>Although you laugh to ſee a ſinner fall,</l>
+                  <l>So ſhall ye have my prayers to great <hi>Iove,</hi>
+                  </l>
+                  <l>That the great King of kings would ſhew you love.</l>
+               </lg>
+            </div>
+            <div type="postscript">
+               <head>Poſtſcript.</head>
+               <l>VVHat do yee ſpit forth Verſe, or piſſe out Proſe</l>
+               <l>Or drop conceits from forth your fruitfull noſe</l>
+               <l>That thus you ſell a Copy for a boord,</l>
+               <l>Nay by <hi>Apollo</hi> first give't for a —</l>
+               <l>Each verſe I make, makes me to twist my face,</l>
+               <l>To picke my nailes, almost an houres ſpace,</l>
+               <l>Before invention can to me preſent,</l>
+               <l>The forming of one pleaſing complement.</l>
+               <l>And faith before this Stump-foot ſilly Gull</l>
+               <l>Shall rake my braines to ſpend upon a Trull,</l>
+               <l>I'le throw my inke away, and make my braines</l>
+               <l>Forſwear to write ſuch under-prized ſtraines,</l>
+               <l>I'le take my leave, and do what you ſhall pleaſe,</l>
+               <l>If you take counſell 'twill be for your eaſe,</l>
+               <l>Go downe to th' Parliament with your new print book,</l>
+               <l>Let them your good intentions quite orelook,</l>
+               <l>O, 'twas bravely done to ſet downe your owne praiſe,</l>
+               <l>But then by way to ſhorten your dayes,</l>
+               <l>Your Mercuries forſake you, ſo do your Hawkers,</l>
+               <l>Take heed of medling with any more Walkers.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
